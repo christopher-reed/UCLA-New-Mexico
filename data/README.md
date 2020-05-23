@@ -1,8 +1,12 @@
 # Data ReadMe
 
-The following readme pertains to th
+## File contents
+File Name | Description
+------------ | -------------
+formatted_well_facility_violations | An Excel file describing the well-facility pairs, identifying information, permitting documents, and annual emissions
+well_facility_violatios_csv | A CSV with the same contents as above
 
-## Getting Started
+## Column Names / Descriptions
 
 Column Name | Description
 ------------ | -------------
