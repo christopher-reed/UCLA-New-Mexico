@@ -8,7 +8,7 @@ well_facility_violations_csv | A CSV with the same contents as above
 indigenous_land | A zipped shapefile and supporting files of federally recognized indigenous land in the United States
 san_juan_county | A zipped shapefile and supporting files of the border of San Juan County, New Mexico
 NMOC_GISData | A zipped geodatabse containing the NMOCD well information (downloaded April 2020)
-
+AQBP-LatLong-20-05-12.csv | A CSV containing information about all permitted facilities in New Mexico published by the NMED (downloaded May 2020)
 ## Column Names / Descriptions
 
 Column Name | Description
