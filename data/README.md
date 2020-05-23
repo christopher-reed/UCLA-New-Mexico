@@ -4,7 +4,10 @@
 File Name | Description
 ------------ | -------------
 formatted_well_facility_violations | An Excel file describing the well-facility pairs, identifying information, permitting documents, and annual emissions
-well_facility_violatios_csv | A CSV with the same contents as above
+well_facility_violations_csv | A CSV with the same contents as above
+indigenous_land | A zipped shapefile and supporting files of federally recognized indigenous land in the United States
+san_juan_county | A zipped shapefile and supporting files of the border of San Juan County, New Mexico
+NMOC_GISData | A zipped geodatabse containing the NMOCD well information (downloaded April 2020)
 
 ## Column Names / Descriptions
 
