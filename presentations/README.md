@@ -4,4 +4,4 @@ Throughout the 2019 - 2020 school year, our team delivered multiple presentation
 
 | File Name  | Description |
 | ------------- | ------------- |
-| midquarter_presentation.pdf  | A presentation delivered virtually to other UCLA IOeS Practicum students. Please note that slide 3 is an animated plot, but appears static due to the PDF format.   |
+| midquarter_presentation.pdf  | A presentation delivered virtually to other UCLA IoES Practicum students. Please note that slide 3 is an animated plot, but appears static due to the PDF format.   |
