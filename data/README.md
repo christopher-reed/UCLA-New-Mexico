@@ -1,4 +1,4 @@
-# Data ReadMe
+# Data
 
 ## File contents
 The geospatial folder contains contains shapefiles, geodatabases, and other spatial data sources neededto conduct the analysis.
