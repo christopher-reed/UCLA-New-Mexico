@@ -9,5 +9,5 @@ These impacts may be exacerbated by potential lack of compliance with state and 
 
 Our team is collaborating with WildEarth Guardians, an environmental non-profit organization dedicated to dedicated to protecting and restoring the wildlife, wild places, wild rivers, and health of the American West, to accomplish two goals. The first is to determine if oil and gas operations are violating pollution regulations, including by operating before they have received required permits under the federal Clean Air Act that are designed to reduce pollution impacts. The second is to determine the extent to which tribal communities are being unduly affected by oil and gas operations in the region.
 
-#Meet The Team!
+# Meet The Team!
 ![Team Photo](https://github.com/christopher-reed/UCLA-New-Mexico/blob/master/images/misc/team.PNG)
